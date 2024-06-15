@@ -1,4 +1,4 @@
-# practice ubuntu
+# Ubuntu
 
 ## Shell-script
 
