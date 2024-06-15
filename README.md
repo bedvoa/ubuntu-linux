@@ -1,6 +1,6 @@
 # practice ubuntu
 
-## Shell script
+## Shell-script
 
 ## Monitoring
 
